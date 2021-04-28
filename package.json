@@ -1,0 +1,16 @@
+{
+  "name": "node-module-global-blacklist",
+  "version": "1.0.0",
+  "description": "global blacklist chacker",
+  "main": "seeders/initBlacklistTable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.alcimi.com/csman03/node-module-global-blacklist.git"
+  },
+  "keywords": [],
+  "author": "AlcimiLab Ltd",
+  "license": "ISC"
+}

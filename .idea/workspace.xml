@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="beef48c9-fe96-43f4-991a-b7c7beeed5f4" name="Default Changelist" comment="package.json edited" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hBPmVtAWFjFKav2GcIB5PijLDE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beef48c9-fe96-43f4-991a-b7c7beeed5f4" name="Default Changelist" comment="" />
+      <created>1599481670965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599481670965</updated>
+      <workItem from="1599481672049" duration="345000" />
+      <workItem from="1599482099858" duration="26000" />
+      <workItem from="1599482303427" duration="1316000" />
+      <workItem from="1599487189381" duration="1063000" />
+      <workItem from="1599488584774" duration="827000" />
+    </task>
+    <task id="LOCAL-00001" summary="node package created">
+      <created>1599481949281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599481949281</updated>
+    </task>
+    <task id="LOCAL-00002" summary="node package created">
+      <created>1599482112340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599482112340</updated>
+    </task>
+    <task id="LOCAL-00003" summary="packages.json removed">
+      <created>1599482338542</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599482338542</updated>
+    </task>
+    <task id="LOCAL-00004" summary="packages.json added">
+      <created>1599482592525</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599482592525</updated>
+    </task>
+    <task id="LOCAL-00005" summary="packages.json added">
+      <created>1599482723701</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599482723701</updated>
+    </task>
+    <task id="LOCAL-00006" summary="deleted">
+      <created>1599487213565</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599487213565</updated>
+    </task>
+    <task id="LOCAL-00007" summary="files added">
+      <created>1599487366185</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599487366185</updated>
+    </task>
+    <task id="LOCAL-00008" summary="package.json edited">
+      <created>1599488663631</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599488663631</updated>
+    </task>
+    <task id="LOCAL-00009" summary="package.json edited">
+      <created>1599490093308</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599490093309</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="node package created" />
+    <MESSAGE value="packages.json removed" />
+    <MESSAGE value="packages.json added" />
+    <MESSAGE value="deleted" />
+    <MESSAGE value="files added" />
+    <MESSAGE value="package.json edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="package.json edited" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599490097011">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1599490097011" />
+  </component>
+</project>
