@@ -2,15 +2,24 @@
   "name": "node-module-global-blacklist",
   "version": "1.0.0",
   "description": "global blacklist chacker",
-  "main": "seeders/initBlacklistTable.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.alcimi.com/csman03/node-module-global-blacklist.git"
+    "url": "git+https://github.com/csman03/blacklist.git"
   },
   "keywords": [],
   "author": "AlcimiLab Ltd",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "~4.16.1",
+    "redis": "^3.0.2",
+    "sequelize": "^6.3.4"
+  },
+  "engines": {
+    "node": "*"
+  }
 }
